@@ -1,31 +1,9 @@
 body {
-  background-image: linear-gradient(to top, rgb(205, 193, 247), rgb(18, 34, 61));
+  background-image: linear-gradient(to top,rgb(197, 217, 252), rgb(18, 34, 61)); 
+}
+
+.section {
   height: 1000px;
+  width: 100%;
 }
 
-.section-1 {
-  background-image: linear-gradient(to top, rgb(205, 193, 247), rgb(18, 34, 61));
-  height: 1000px
-}
-
-.section-2{
-  background-image: linear-gradient(to top, rgb(205, 193, 247), rgb(18, 34, 61));
-
-  height:1000px
-}
-
-.section-3{
-  background-image: linear-gradient(to top, rgb(205, 193, 247), rgb(18, 34, 61));
-
-  height: 1000px
-}
-
-.section-4{
-  background-image: linear-gradient(to top, rgb(205, 193, 247), rgb(18, 34, 61));
-  height: 1000px
-}
-
-.section-5{  
-  background-image: linear-gradient(to top, rgb(205, 193, 247), rgb(18, 34, 61));
-  height: 1000px
-}
