@@ -1,9 +1,30 @@
 body {
-  background-image: linear-gradient(to top,rgb(197, 217, 252), rgb(18, 34, 61)); 
+  font-family: 'IBM Plex Mono', serif;;
+  background-image: linear-gradient(to top,rgb(149, 167, 214), rgb(18, 34, 61)); 
 }
 
 .section {
   height: 1000px;
   width: 100%;
+  text-align: center;
 }
 
+.section-1{
+  color: rgb(11, 75, 35);
+}
+
+.section-2{
+  color: rgb(26, 94, 52);
+}
+
+.section-3{
+  color: rgb(48, 150, 87);
+}
+
+.section-4{
+  color: rgb(110, 209, 148);
+}
+
+.section-5{
+  color: rgb(191, 247, 212);
+}
