@@ -4,27 +4,41 @@ body {
 }
 
 .section {
-  height: 1000px;
+  height: 550px;
   width: 100%;
   text-align: center;
 }
 
 .section-1{
-  color: rgb(11, 75, 35);
+  color: rgb(9, 10, 9);
 }
 
 .section-2{
-  color: rgb(26, 94, 52);
+  color: rgb(49, 49, 49);
 }
 
 .section-3{
-  color: rgb(48, 150, 87);
+  color: rgb(165, 168, 166);
 }
 
 .section-4{
-  color: rgb(110, 209, 148);
+  color: rgb(182, 189, 185);
 }
 
 .section-5{
-  color: rgb(191, 247, 212);
+  color: rgb(243, 246, 244);
+}
+
+.info {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  
+}
+
+p {
+  margin: 5px;
+  border-style: solid;
+  border-color: rgb(10, 18, 15);
+  width: 150px;;
 }
